@@ -1,0 +1,106 @@
+# Translation Progress
+# Manager updates this file to track work
+
+project: Charles Blanchard
+source_language: French
+target_language: English
+model: claude-opus-4-5
+
+chapters:
+  - id: "00"
+    file: chapters/00_front_matter.txt
+    title: Front Matter
+    words: 238
+    status: pending  # pending | in_progress | review | done | skip
+    notes: "Contains OCR artifacts from library stamps"
+
+  - id: "01"
+    file: chapters/01_preface.txt
+    title: Preface
+    words: 6384
+    status: pending
+    notes: "By Léon-Paul Fargue - more ornate than main text"
+
+  - id: "02"
+    file: chapters/02_chapter_1_the_cold.txt
+    title: "Chapter I: The Cold"
+    words: 6572
+    status: pending
+    notes: "Core chapter - establish voice here"
+
+  - id: "03"
+    file: chapters/03_chapter_2_clogmakers_house.txt
+    title: "Chapter II: The Clog-maker's House"
+    words: 6348
+    status: pending
+    notes: ""
+
+  - id: "04"
+    file: chapters/04_supplement_first_version.txt
+    title: Supplement to First Version
+    words: 1857
+    status: pending
+    notes: "Earlier draft material"
+
+  - id: "05"
+    file: chapters/05_second_version_bread.txt
+    title: "Second Version: The Bread"
+    words: 7265
+    status: pending
+    notes: "Alternate take - bread as central symbol"
+
+  - id: "06a"
+    file: chapters/06_third_version_1_happy.txt
+    title: "Third Version I: Charles Blanchard Happy"
+    words: 995
+    status: pending
+    notes: ""
+
+  - id: "06b"
+    file: chapters/06_third_version_2_small_town.txt
+    title: "Third Version II: The Small Town"
+    words: 890
+    status: pending
+    notes: ""
+
+  - id: "06c"
+    file: chapters/06_third_version_3_market.txt
+    title: "Third Version III: The Market"
+    words: 844
+    status: pending
+    notes: ""
+
+  - id: "06d"
+    file: chapters/06_third_version_4_fair.txt
+    title: "Third Version IV: The Fair"
+    words: 831
+    status: pending
+    notes: ""
+
+  - id: "06e"
+    file: chapters/06_third_version_5_carousel.txt
+    title: "Third Version V: The Carousel Horses"
+    words: 1478
+    status: pending
+    notes: "Particularly lyrical"
+
+  - id: "07"
+    file: chapters/07_variants.txt
+    title: Variants
+    words: 11046
+    status: pending
+    notes: "Fragments and alternate versions - may be rough"
+
+  - id: "08"
+    file: chapters/08_table_of_contents.txt
+    title: Table of Contents
+    words: 168
+    status: skip
+    notes: "Translate titles only"
+
+  - id: "09"
+    file: chapters/09_back_matter.txt
+    title: Back Matter
+    words: 767
+    status: skip
+    notes: "Publisher ads - summarize only"
