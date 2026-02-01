@@ -1,8 +1,8 @@
 title: Charles Blanchard
 description: A new English translation of Charles-Louis Philippe's 1913 novel
 author: Translated with Claude Opus 4.5
-url: ""
-baseurl: ""
+url: "https://bedwards.github.io"
+baseurl: "/charles-blanchard"
 
 markdown: kramdown
 highlighter: rouge
