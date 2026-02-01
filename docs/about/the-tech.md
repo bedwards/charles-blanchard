@@ -10,7 +10,7 @@ permalink: /about/the-tech/
     <a href="{{ '/about/the-tech/' | relative_url }}" class="active">The Tech</a>
 </nav>
 
-<div class="about-content">
+<div class="about-content" markdown="1">
 
 # The Technical Stack
 

@@ -10,7 +10,7 @@ permalink: /about/the-book/
     <a href="{{ '/about/the-tech/' | relative_url }}">The Tech</a>
 </nav>
 
-<div class="about-content">
+<div class="about-content" markdown="1">
 
 # About Charles Blanchard
 
