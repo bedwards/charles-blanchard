@@ -33,6 +33,13 @@ body {
     flex-direction: column;
 }
 
+/* Horizontal Rules */
+hr {
+    border: none;
+    border-top: 1px solid var(--color-border);
+    margin: 2.5rem 0;
+}
+
 /* Navigation */
 .site-nav {
     border-bottom: 1px solid var(--color-border);
