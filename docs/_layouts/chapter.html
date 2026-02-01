@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Charles Blanchard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body class="chapter-page">
+    <nav class="site-nav">
+        <div class="nav-container">
+            <a href="{{ '/' | relative_url }}" class="nav-title">Charles Blanchard</a>
+            <div class="nav-links">
+                <a href="{{ '/chapters/' | relative_url }}">Read</a>
+                <a href="{{ '/listen/' | relative_url }}">Listen</a>
+                <a href="{{ '/download/' | relative_url }}">Download</a>
+                <a href="{{ '/about/the-book/' | relative_url }}">About</a>
+            </div>
+        </div>
+    </nav>
+
+    <article class="chapter-content">
+        <header class="chapter-header">
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+        </header>
+
+        <div class="chapter-text">
+            {{ content }}
+        </div>
+
+        <nav class="chapter-nav">
+            {% if page.prev %}<a href="{{ page.prev | relative_url }}" class="prev">&larr; Previous</a>{% endif %}
+            <a href="{{ '/chapters/' | relative_url }}" class="toc">Contents</a>
+            {% if page.next %}<a href="{{ page.next | relative_url }}" class="next">Next &rarr;</a>{% endif %}
+        </nav>
+    </article>
+
+    <footer class="site-footer">
+        <div class="footer-container">
+            <p>Charles-Louis Philippe, <em>Charles Blanchard</em> (1913)</p>
+            <p>Translated with Claude Opus 4.5 &middot; 2026</p>
+        </div>
+    </footer>
+</body>
+</html>

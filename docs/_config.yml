@@ -1,0 +1,23 @@
+title: Charles Blanchard
+description: A new English translation of Charles-Louis Philippe's 1913 novel
+author: Translated with Claude Opus 4.5
+url: ""
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - assets/charles_blanchard_english.html
+
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"

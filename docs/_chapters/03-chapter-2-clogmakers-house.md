@@ -1,0 +1,229 @@
+---
+layout: chapter
+title: "Chapter II"
+subtitle: "The Clog-maker's House"
+prev: /chapters/02-chapter-1-the-cold/
+next: /chapters/04-supplement/
+---
+
+A surprising thing came to pass: after twelve years of such an existence, Charles Blanchard did not figure among the dead.
+
+"I shall never die," he would say later. "If I had been meant to die, I would have died in my childhood."
+
+But if he did not figure among the dead, he cut a sorry figure among the living. When he stood upright, it seemed he was incapable of bearing the weight of life. The weight of his head upon legs without strength, he swayed in every direction, as though he were hesitating a moment before deciding which way to let himself fall.
+
+"Why do you rock like that," his mother said to him.
+
+He gave no more answer than one gives to certain ridiculous questions that children ask. He simply went and sat down.
+
+One understood, looking at him, that there exist men who are not our fellows. He barely had our form. His arms were too long, his neck too thin, and two spindly legs that climbed all the way to his chest gave the impression there was no room in him for a belly. His eyes were too large, his eyes were too blue, and whoever might have wished to describe their expression would have tried in vain for a long time. One could only have compared them to the eyes of madmen in whose minds such strange things occur that they have had to be put away.
+
+Beneath his transparent cheeks, his colourless flesh seemed mixed with water. One must not say his skin was moist: his skin was damp. Sometimes his mother wiped his face; a moment later it would have to be done again. It was not even enough to say his skin was damp. No doubt some singular phenomenon had occurred in the deep layers of his body; his veins were fragile, one of them had ruptured; he was draining away; a horrible liquid was seeping through his skin.
+
+"But it is a haemorrhage," Solange thought.
+
+Indeed one had to expect his blood to be that colour.
+
+One knew nothing of his feelings. During those long afternoons in the course of which his mother received the destiny of widows and he the destiny of fatherless children, he kept a tranquil stillness in his chair. He placed both hands flat upon his knees, and breathing the air that surrounded him, in the midst of misfortune, he kept silent in so strange a fashion that one wondered what he had to be silent about. His mother had not been able to lose the habit of weeping. He would turn a little in her direction, would perceive her no doubt, then, resuming his posture, would go on living as if there had been no tears beside him.
+
+In the early days, she did not yet know. She would ask:
+
+"Are you ill, my little one?"
+
+It seemed he had not heard, or rather it seemed he was occupied elsewhere.
+
+He inhabited a world that is not ours, nothing could draw him out of it; a great principle of silence commanded his ways, he was not its master: one sensed he was watched, one saw him obey. If sometimes, in one of those unconscious movements we all have, he made a gesture, it was as though he then perceived he had just failed in his duty. He seemed to hide himself in order to return to repose, then he would pass his hand over the limb that had made the gesture, as though he wished to efface its trace.
+
+One no longer understood anything of human nature when one examined him. How did he live? But what on earth did he do? Certainly, with the breath of his respiration, his chest rose and fell like ours, but that was the only point by which he resembled us. One could not imagine the ideas that might grow in his head. One knew no one to whom he might be compared. Old men make more noise, grown men are less grave, animals mingle with us more. Sometimes it seemed the pallor and dampness of his face ought to furnish some indication. Yes... It was not even in the animal kingdom that one might have found his like. When one saw him motionless and cold on his chair in the darker corner of his sombre house, one told oneself that unsuspected phenomena take place sheltered from the light of the sun and that strange moulds have been able to develop in a frozen shadow. Some monstrous mushroom, on the floor of one of those rooms that make one think of cellars, had grown during days and days: chance had given it the form of a child.
+
+Solange had always lived in the hope that one day her son would be twelve years old. He was still quite small, there lay before her days so thick she did not know how to get through them, years of misery seemed like walls placed across her life, no matter! She had a sister whose husband was a clog-maker. One day her son would be twelve years old. She would have a sister whose husband would be a clog-maker.
+
+Baptiste Dumont, her brother-in-law, lived in a small village called Champvallon that was situated four leagues from the small town. It was not very far. The small town was situated four leagues from a great hope, happiness would come at the first call, she would say to him exactly these words:
+
+"There. My little one is twelve years old. I entrust him to you so that you may teach him your trade. You cannot refuse me since you are my brother-in-law."
+
+It is at that moment he would say yes. She would only have to add:
+
+"He will know how to work. Each evening, he will have earned his day. He will be happy when he is grown. He will not be like his mother."
+
+Certainly, she was sad because each day she took comfort in her sorrow; she was sad because she did not know how one could do otherwise, but her sadness did not go very far. She wept for today, she did not weep for tomorrow. There was always in her heart a small corner ready for repose within sorrow. At the time of the great events of her life, on the anniversary of her son's birth, for example, she always had in reserve a very gentle thought. When he was eight years old, she would tell herself:
+
+"There are only four years left to wait."
+
+When he turned eleven, she could not keep her joy to herself and began to say to him:
+
+"My little one, in a year, you will be twelve years old."
+
+She possessed the mystical number, she knew how to calculate the times, she prophesied like Daniel the epoch of the coming of the Messiah. She did not even need to see what would happen when the Messiah had come. She did not say there would still be many battles to endure before the day of his glory. The new order was going to be established; one would only have to receive it, a great silence was going to reign over the world and it would be that of Peace.
+
+"My little one is going to begin his apprenticeship. He will know how to work. Each evening he will have earned his day..."
+
+The twelfth year was long in coming. Never did Solange lose courage. She closed both eyes to be alone with her faith. Each morning in her body she felt a movement more easy, in her heart she heard a clearer sound; each evening, the day in departing had relieved her of all the weight of one day of her past life. The twelfth year advanced slowly, for happiness is our master and takes its time, but she knew one could count on it. Besides, it had already set out upon the road.
+
+It was a fine morning, that on which she looked around her. Twelve years earlier she had brought a child into the world. She did not know then that she would be so unhappy. Each day, with a horrible fidelity, had been one of the days of a desolate life. She did not foresee then that one day she would be so happy. When she rose, on the morning of the twelfth year, she would gladly have cried out:
+
+"A great joy, this morning, has risen upon the world."
+
+As the child made his way towards his chair and was about to sit down as usual, she advanced quickly to prevent him. Something had changed upon the Earth, he was going to fail to notice. She cried out to him:
+
+"My little one, you are twelve years old!"
+
+Then she looked to see what was going to happen.
+
+One does not know if Charles Blanchard was twelve years old. He did not even glance, he did not even trouble to learn whether, as he was being told, a great event had just occurred. He turned past his mother, as one turns past an obstacle, regained his corner, and he seemed to have found there the only event that might ever interest him: that which consisted in the persistence of a life without warmth, without light, and without sound.
+
+Solange Blanchard felt a sentiment such as mothers have never felt. Certainly, she had more than once glanced at her son, but it was then as we ordinarily do with persons we believe we know, in order to place upon his head one of the ideas she had formed about him. This time she gave a true glance, she chased away all her thoughts so they might not trouble her, she armed herself with all her lucidity to make a precise observation. Now then, what was happening? Why had the child not answered? She looked. One does not know what she saw.
+
+What she saw stopped dead in her body the life she had led until now. She felt it all at once. Already an enormous ball in her stomach could no longer pass. The hiccups came and seized her and for a good while did not release her. One heard their sound in her: Ouakka! as if a new voice had taken the place of her absent voice. She was before what she saw less than a dog, less than a fly, less than a louse. All she could do was want to leave and begin to tremble. A base fear, sly, unworthy of a mother, made itself a place in her soul, the first thought she found was this:
+
+"Can you catch it?"
+
+A little later she rose, she went gently towards the door and before fleeing she turned to see if the horrible thing was not following her into the street.
+
+She walked upon the roads, she walked so long that the hour of her first household was past by a good half hour and still she walked. When she noticed, she continued walking. She went away from her son, she went away from her house, she went away even from the small town that contained her house. She crossed a village she did not know, around her spread a country she had never seen, and even that did not make her stop.
+
+It was only much later that she could gather in her head some of her thoughts. They were very ill. Solange noticed however that she was on the road to Champvallon, the village where her sister lived. She had instinctively thrown herself, in the midst of danger, towards the side where she might expect some help. She walked to the end.
+
+Champvallon was situated in a hollow, there was a main street, and lanes that crossed it. She asked a passer-by to show her her brother-in-law's house. Ten o'clock was striking at the church steeple. She opened the door that had been pointed out to her. Baptiste Dumont was alone in the shop and was working at his clogs.
+
+She did not even take the time to sit down before saying to him:
+
+"Baptiste, you must come fetch the little one."
+
+It was only afterwards that she fainted.
+
+The house of Baptiste Dumont and of his wife who was called Rose was, in the village of Champvallon, a workman's house. She was situated in the main street, between the house of the wheelwright and that of the joiner. She was situated in the street of work beside the houses of the workers. More activity is expended in villages than the people of Paris who pass through them by carriage ordinarily believe. Certainly, silence reigns the whole length of the street, as far as one can see; the hens and cats are peaceful inhabitants; barely does a woman sew in a chair before her door, surrounded by little girls who are learning to sew like her, but in the shadow of the shops, workers who make only a dark stain to the eyes of the passer-by obey life with courage, and, clog-makers, joiners, wheelwrights, make all the clogs, all the furniture, all the carts that men need within a league's radius.
+
+As soon as one crossed the threshold of Baptiste's house, one forgot everything one might have seen before entering. One no longer thought of the old church which, placed in the midst of the houses, watches over them as a mother hen watches over her chicks who are not yet very big. One no longer thought of those countrysides of France in which happy villages have been placed in the right spot as if by children who have emptied the contents of their toy box in a great meadow. As soon as one crossed the threshold of Baptiste's house, one thought of quite another thing.
+
+The house of Baptiste Dumont was full of clogs. She contained so many that one quickly understood she could contain nothing else. Some, hung on the four walls by nails, occupied their entire surface. They were there: there were clogs on the walls, they had taken so much room that one was not certain any remained for the walls behind the clogs. The others hung in rows from ropes stretched across the room a little higher than your head, and between each row there was enough space to perceive, suspended from ropes stretched a little higher than the first, a second layer of clogs. What one saw gave one to foresee that there was a third layer still, and as one could not see the ceiling, one did not think of it, and one told oneself that four, that five, that fifty layers, that a pyramid of clogs filled up to the roof an attic situated above the house. After having believed in those of the attic, one was quickly led to believe in those of the cellar. As part of the shop floor was occupied by clogs that had been placed on the tiles, the imagination enlarged by the sight of so many of these objects was not satisfied with so simple a truth, and one naturally came to think that a mass of clogs deposited in the cellar had risen, pushed by the irresistible force of number, or better still, that a volcano of clogs sprung from the bowels of the earth had burst through the floor and spread through the house like lava its invading torrent.
+
+Such was the shop in which Baptiste Dumont lived.
+
+"There will soon be no more room," one sometimes said to him.
+
+He answered:
+
+"I shall put them outside, I shall pave the roads with them."
+
+And in the middle of the shop, in a space he had reserved for himself, surrounded by his materials, his tools, and his quarters of wood, with a courage he never let diminish, he was making more clogs.
+
+Clogs do not make themselves. Wood is harder than stones, one would say it resists the worker and strives to make his life difficult. Baptiste attacked it like an enemy. With a terrible arm, when he had succeeded in driving the iron wedges into his piece, he raised his mallet, and when he brought it down, it seemed in a hand-to-hand struggle he was hurling himself upon the wood at the same time. One of the two had to yield, either the wedges would enter to the end in the split fibre, or the man, defeated by the resistance, would split apart in the wood's stead. The man did not split apart: he remained alive to continue the fight. After setting down the mallet and the wedges, he seized a hatchet. The battle was fierce, the tools made one think of weapons. They were called an asciot, a paroir, an auger, a spoon-bit, a butoir, a gouge. To describe them is impossible, so complicated is woodwork. Each had its use, each its moment, everything had been foreseen: after the hatchet one passed to the asciot.
+
+One had to be a skilled man and of a fierce conscience to bring the clogs to completion. The wood, as we have seen, can only be attacked with great blows. In a continual surge, carried away by a kind of warlike fury, it was as though Baptiste hurled himself, his tool in one hand, upon the quarter of wood he held with the other, and that, dealing it straight blows, this time at last, he had his revenge. He did not retreat. It was to be feared that in the intoxication of combat he would lose all measure and that, driven by a single rage, he would turn it upon himself as well. Baptiste, one day, at the age of nineteen, no longer calculating his movements, had blown off the thumb of his left hand. Other times it was as if, suddenly changing tactics, he were going to take the wood crosswise. He would fix it first, pierce it, hollow it out with method, then, having introduced a tool that he braced against his shoulder and that was called a spoon-bit, from all sides he would tear away and knock out whatever presented itself to his blows, as though, despairing of achieving his ends, incapable of subduing it, he were going to destroy an enemy who prevented him from living. To be a clog-maker, one must be angry. One expected the worst disasters, one was already astonished not to have seen blood flow. Sometimes, thrusting his face towards his piece of wood with violence, his mouth, his maw open, it seemed he finally perceived he possessed a jaw like the beasts; he had waited too long: now he was going to bite. One waited with anxiety for the moment when, mad with impotence, he would quit everything, and turning his rage towards all humanity, rush into the street and spring at the throats of passers-by as though they had been the cause of his misfortune.
+
+Perhaps, for that matter, that is what would have happened if the struggle had been too long. But soon one saw him take four steps backward. What he held between his hands was no longer that shapeless quarter of wood that had given him such trouble. Two clogs making a pair, of veined wood, with a fine curve, smooth, hollow, rounded, with their heels well defined, were the fruit of his labour. They were perfect as though they had come directly from the hands of the Creator. He examined them on both sides with pride, knocked them against each other; they gave a clear and full sound, comparable to the sound a fine piece of silver gives. Once more, man had won a great victory. Matter was vanquished; Nature was no match. He pushed aside with his foot to make room the splinters of wood that littered the floor on all sides. A child would have gathered them up thinking them toys.
+
+Was the house of Baptiste Dumont situated in one of those villages far from towns, which give you to think that life, like a person, has left them to come taste, in the midst of the fields, fine simple sentiments? Certainly, for whoever does not know what a clog-maker is, the house of Baptiste was the shelter of those clogs worn by country folk and which, made from the wood of their walnut trees, are also children of the village.
+
+They inhabited her like humble inhabitants, in truth, without complication, and gave her what clogs can give. They gave her the smell of their wood. The house had that dry and somehow resigned smell of felled trees, she had that precious smell which seems to be that of their soul and which gives you to think that trees after their death keep an odour of sanctity. She smelled of leaves, she smelled of walnuts, she smelled of earth. The house was then but one of the gentlest houses of the village of Champvallon.
+
+But for whoever had once seen Baptiste work, the house was situated in quite another country. It was not the restful and somewhat sad atmosphere of central France that seduces you at a certain age and seems to offer itself to you. She was situated in an active world; one thought of those furious cities in which iron struck by steam hammers makes a noise beside which one no longer hears the sound our feelings make in our soul. One thought of those mines where, in the black galleries, a whole people, pick in hand, striking the wall with great blows, accomplishes its duty with as much courage as if space and light did not exist. Sometimes it seemed a great wind was blowing. It advanced from all sides, and seizing the four corners of the house, lifted her whole; it was as though Baptiste were struggling to defend himself against it. One thought of the sea, upon which the fisherman has set out with his boat. When one watched Baptiste work, one thought of many things one did not see. The house was situated in the country of human activity, there where man, the hero of the world, heeding only his courage, takes on God himself and gives life a form it seemed He had not willed. Was one at a clog-maker's? Yes, but one was elsewhere besides. One was among those who work the wood and who not only make clogs, but also frames for houses, among those who forge iron, among those who build houses, among all those who, in the noisy city, occupied with the labours of industry, make for us a life better than the one we had received. And one may say the air one breathed there was not that of Champvallon. One breathed the air breathed on the open sea by those who go, enlarging their homeland, to plant its flag upon a new world.
+
+The day Charles Blanchard arrived at his uncle's house, against all expectations, he found enough energy to do something. As soon as he was in the shop, he did not sit down as one might have thought, but he looked around him. He ended by discovering a door, which made the shop communicate with another room; this door was closed, but he went to it, opened it, and disappeared.
+
+He said not a word, he made no sound, it was only a little later that Baptiste noticed his absence. He went to find him and thought:
+
+"It is the journey that has tired him. He wants to sleep. I say, friend, what if you got into bed?"
+
+Charles Blanchard had taken refuge in the room where one slept. But the next morning, when he was up, Baptiste said in vain:
+
+"Come now, come with me into the shop."
+
+Charles Blanchard retreated, pressed himself against the wall and tried to retreat further once he was there. Unable to manage it, he lowered his head and began to tremble.
+
+Violence had to be used, he had to be seized by one arm. He did not struggle, not having the habit, but truly it was his corpse that was dragged into the shop. And it was impossible to release him afterwards: he did not stand on his legs.
+
+One came to say:
+
+"It is no doubt because he has left his mother. He is not used to us."
+
+The aunt locked the door with a key, for he was trying to open it, then she leaned him against the door saying:
+
+"Come now, look, stay a little with your uncle."
+
+He stood upright out of obedience, and he showed his face; but as soon as he had glanced around him, he turned his back. His head was placed under his arm, he closed his eyes; with all his body he pressed himself against the door as if he wished to become part of it; one could believe his soul had already passed through it to go to the other side.
+
+Sometimes, at mealtimes for example, the door had to be opened. As soon as it was ajar, he slipped through the crack, he escaped like a prisoner who has just recovered his liberty and hastens to make use of it. He ran to the first chair, it was good and sufficed him. It was upon that one that he sat down, then, with a thrust of his head and a thrust of his shoulder, he launched himself, he plunged, he entered into silence and seemed then to have found the element in which he could live.
+
+The house of Baptiste, in fact, contained two rooms. The first was the shop, but for Baptiste it had such importance that it was the shop he called the house. It is by this name that one has had to speak of it. The second room was the chamber.
+
+The chamber hardly counted: it was the room in which one does not work. It contained the beds, the table, and the chairs. It also contained a sideboard, a wardrobe, a clock, and, on the mantelpiece, on either side of the mirror, were placed two vases in which the wife might have put flowers had the idea come to her. It contained everything that had been acquired by the work that had been done in the shop.
+
+In the chambers men are not at home.
+
+She was the place where women are at home. Women give themselves over there to their occupations. They polish the furniture, one would say they burnish it; and, women finding nothing fine enough for themselves, one would say they practise each day at perfecting it. Women too know and practise a craft of order and alignment. Baptiste, sometimes, laughing, called the chamber: the parlour. He no longer dared set foot in it, fearing, by the mere presence of his workman's body, to break a mysterious harmony for which he did not feel himself made.
+
+The afternoon of women passes in the chambers. It seems at first that they do needlework there and that they occupy themselves, while their husband is entirely taken up with the labours of his man's trade, with the tasks of women which require much application. But when one knows them better, one perceives it is not quite so. Women occupy only their hands. Their mind in the chambers rests and tastes pleasures such as the rich know and which consist in enjoying, in the midst of fine things, pleasant thoughts. Silence is necessary to them, sometimes they fill it with a song chosen among all for the sweetness of its sentiments. They people the solitude as their heart pleases, they look around them and start from what they see to compose for themselves a chamber still finer than their own and to tell themselves that being the wife of a good workman, one day perhaps they will be able to acquire it.
+
+For many reasons, Rose Dumont could not permit her nephew to remain beside her in the chamber, for he brought something that had to be driven out of it. It was as though his silence were alive, and like a monstrous beast were watching everything around him. Rose might well have tried to sing one of her songs: if someone had then entered the chamber, it was not the song he would have noticed, but the child's silence. Games of imagination beside him were quite impossible; one was not where one might have wished to be, in a world our dreams perfect and in the midst of which it seems our thoughts have grouped themselves in our head like roses at the centre of a bouquet of greenery. It was he who was there, it was not another; even when one did not look at him, it seemed one was contemplating him face to face. His presence was indisputable, it was total. He was entirely what he was, he had brought here all the miserable smell of his past; one does not know if it was the stable or the cellar he smelled of; you were no longer in your own home, you were living the life he had lived. It reached your nostrils, you had to push back your breath so as not to suffer from it.
+
+Rose would close her eyes and want to cry:
+
+"Go away, you smell bad!"
+
+It was not possible to be happy beside him.
+
+In the early days, someone who had known him better might have believed he understood it, that he wished it, that he had made of it a kind of mission. He resisted when they tried to make him leave. He who never opened his mouth knew how to speak. He knew how to say:
+
+"No, aunt! oh no, aunt!"
+
+It was necessary to set about it, he had to be resolutely driven from the chamber. It became a habit. No word would have been strong enough. Rose called Baptiste:
+
+"Come, come help me!"
+
+Each of them took the child by one arm, not without having moreover threatened him with the gendarmes, and with violence, since it was not possible to do otherwise, they expelled him, they threw him into the middle of the shop. The door slammed.
+
+"Come now, come and watch the clogs being made," said Baptiste, who was a conciliating man...
+
+...The fifth day after his arrival, Baptiste said to him:
+
+"Now, you must be starting to get used to us."
+
+He answered nothing, he could have answered nothing, but when his uncle added:
+
+"This afternoon, I shall have you rasp a few pairs of clogs."
+
+He even stopped trembling. He would have wished to be entirely within his heart so as to stop its beating.
+
+In the early days, Charles Blanchard would hear nothing of it. In his uncle's house he loved only the night. When evening had fallen and they had eaten the soup, after a half hour's wait, everyone went to bed. That was the moment he awaited. The lamp was extinguished, the shutters drawn, one heard only the regular breathing of Baptiste and Rose.
+
+The child made every effort not to fall asleep. The night was thick, one would have said the sky and the earth did not exist, or else that they were all black. He opened both eyes to perceive it better. He felt himself in his place. In his mind, the sad memories of his past life spread slowly and took on that importance our memories have when we are quite alone. In his chest, the movements, the murmurs of his present life filled his heart, then, spreading through his body, filled him entirely with a kind of bitter liquid. It seemed he was all black, in an all black world. He did not fall asleep, so as to feel unhappy longer. And from his head, like smoke, dark thoughts of the future rose, which traversed the room and fixed themselves there, as if he had wished to maintain the obscurity, as if he had wished to make it thicker still.
+
+And the following days, when already it was to be foreseen he was going to become a new Charles Blanchard, he did not abandon himself, as one might believe, to his new life.
+
+One says to an ordinary child:
+
+"You are going to rasp a pair of clogs for me."
+
+He throws himself upon a game he does not yet know, with that eagerness children have for pouncing on happiness. Their joyful soul, at the vanguard of a docile body, draws it into all the adventures that present themselves.
+
+Even when Charles Blanchard held a clog and a rasp between his hands and these objects no longer inspired any fear in him, he did not accept the amusing, or at least the interesting minute he might have spent in their company. Certainly, he practised upon a clog with a rasp the work his uncle had ordered him, certainly he obeyed the command he had received, but he did not wish to believe that life was relaxing towards him the severity of which it had always given proof. He did not know what he feared, but he feared something. With a light stroke of the tool so as not to precipitate events, with slowness to give himself time, he attacked his wood. He was attentive to each of his movements, to each of the sounds they provoked, to the slightest creakings that an ear as fine as his alone could hear. He feared the clog would split apart, that it would leap at his face, that the rasp would bite him. He always had one leg forward, he was always ready, at the first sign of danger, to drop everything and seek his salvation in flight.
+
+He needed several days to acquire what another would have conquered at the first stroke: the peaceful consciousness of the task he was accomplishing. In the early days it seemed he was tracked like a beast, that a relentless labour was pursuing him into his most secret retreats. His soul and his heart fled to take shelter. He preserved his thought by locking it in the blackest and most remote corner of his brain. A full week was needed before he understood that no harm was meant him. It was only after that time that he recovered his breath, that he calmed, that he could consider with an assured eye his occupations and his destiny. One must mark with a white stone the day when Charles Blanchard gave to his clogs a little of that attention men accord to the task that occupies them. A great change had occurred in his life, when, having chased away vain terrors, he could say to himself, one evening, after having rasped his clogs:
+
+"Today, I rasped six pairs."
+
+There existed then for Charles Blanchard something called work.
+
+Work does not let go of those it has chosen. Each morning, the child rose at the same time as his uncle, on the stroke of six. One might have thought the day that was beginning would be empty still and that it would be necessary to sit on a chair, to lower one's eyes, to contemplate it sadly and to tear from one's brain heavy thoughts to attempt to fill it. Yes, that is how the day began. But scarcely an hour had passed, it was not quite certain that seven o'clock had struck, when already Baptiste was saying:
+
+"Come now, lad, today I am going to have you blacken some clogs."
+
+To blacken the clogs, one uses, in place of a brush, a hare's paw that one dips in a black dye. Charles Blanchard was wary at first, but soon it was stronger than he. As soon as he had a little colour at the end of his paw, before he had even spread it on the edge of his clog, he was carried away by the most joyful of ideas that can seize a child. He thought:
+
+"I am going to paint!"
+
+Painting on clogs is not sufficient unto itself. When he had finished his task, all the clogs being blackened, when the new Charles Blanchard tried to re-enter the old Charles Blanchard, the one who had nothing to do, doing nothing was no longer what seemed preferable to him in life.
+
+"Uncle, I have finished."
+
+"You shall let them dry, and then I shall show you how to wax them."
+
+It is not necessary to know how one waxes clogs. It will suffice to know that when Charles Blanchard knew how to wax them, he could say to himself:
+
+"I know how to rasp; I know how to blacken; I know how to wax clogs."
+
+It was he who next spoke first. The day came when, without his uncle having made a single gesture or uttered a single word, Charles Blanchard could not remain silent on his chair and began to say:
+
+"Uncle, would you like me to try splitting your wood?"
