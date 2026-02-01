@@ -92,6 +92,11 @@ hr {
     width: 100%;
 }
 
+.content > p + div,
+.content > p + section {
+    margin-top: 2.5rem;
+}
+
 /* Home Page */
 .home-hero {
     text-align: center;
