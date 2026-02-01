@@ -25,8 +25,8 @@ chapters:
     file: chapters/02_chapter_1_the_cold.txt
     title: "Chapter I: The Cold"
     words: 6572
-    status: pending
-    notes: "Core chapter - establish voice here"
+    status: done
+    notes: "Core chapter - voice established"
 
   - id: "03"
     file: chapters/03_chapter_2_clogmakers_house.txt
